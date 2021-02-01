@@ -16,7 +16,7 @@ const MyMessage = ({ message }) => {
         float: "right",
         marginRight: "18px",
         color: "white",
-        backgroundColor: "#3b2a50",
+        backgroundColor: "#1565c0",
       }}
     >
       {message.text}
